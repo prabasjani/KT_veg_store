@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+.active {
+  color: #27272a;
+  border-bottom: 2px solid #27272a;
+  padding-bottom: 6px;
+}
